@@ -1,7 +1,3 @@
-This GitHub README is designed to balance your technical expertise in **C\#/.NET** and **AI/ML** with the personal philosophy you shared. It highlights your scholarship achievements and your "builder" mindset.
-
------
-
 # Hi, I'm Maaz 👋
 
 I am a Software Engineer and current **MSc Artificial Intelligence** student at **Lancaster University**. I’m driven by the "rush" of solving complex data challenges and building scalable, maintainable systems that bridge the gap between technical architecture and real-world business impact.

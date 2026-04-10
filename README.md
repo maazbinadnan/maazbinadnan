@@ -1,6 +1,4 @@
-# Hi, I'm Maaz 👋
-
-I am a Software Engineer and current **MSc Artificial Intelligence** student at **Lancaster University**. I’m driven by the "rush" of solving complex data challenges and building scalable, maintainable systems that bridge the gap between technical architecture and real-world business impact.
+ A Software Engineer by profession and current **MSc Artificial Intelligence** student at **Lancaster University**. I’m driven by the "rush" of solving complex data challenges and building scalable, maintainable systems that bridge the gap between technical architecture and real-world business impact.
 
 ### 🚀 What I’m working on
 
